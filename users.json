@@ -1,1 +1,2 @@
-{{username:admin, password:admin},{username:supervisor, password:supervisor}}
+{{username:admin, password:admin},
+{username:supervisor, password:supervisor}}
